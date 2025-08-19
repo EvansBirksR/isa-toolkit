@@ -1,2 +1,2 @@
 # isa-toolkit
-International standard atmosphere implementation fro aerospace applications.
+International standard atmosphere implementation for aerospace applications.
